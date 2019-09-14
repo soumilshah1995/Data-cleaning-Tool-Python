@@ -9,8 +9,7 @@ Solution:           Python script to select file it will drop all null values an
                    
  # Step 1:
  
-                   
-                    <img width="797" alt="Screen Shot 2019-09-14 at 7 32 09 PM" src="https://user-images.githubusercontent.com/39345855/64914787-5d90a380-d726-11e9-8ecd-7cf3d9f83a8f.png">
+ <img width="797" alt="Screen Shot 2019-09-14 at 7 32 09 PM" src="https://user-images.githubusercontent.com/39345855/64914787-5d90a380-d726-11e9-8ecd-7cf3d9f83a8f.png">
                     
                     
                     
